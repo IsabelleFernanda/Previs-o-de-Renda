@@ -1,6 +1,5 @@
 # Previsão de Renda
 
-![Logo do Projeto](ebac_icon.png)  
 
 Este repositório contém um projeto de **previsão de renda** desenvolvido com base em dados de clientes. O projeto inclui a criação de um modelo preditivo para estimar a renda e a implementação de duas aplicações interativas utilizando **Streamlit**. Este é o **segundo projeto** concluído no curso **Profissão Cientista de Dados** da EBAC, focando na aplicação prática de técnicas de análise de dados e machine learning.
 
